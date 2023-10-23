@@ -858,6 +858,17 @@ h6 {
   margin-bottom: 10px;
 }
 
+#speakers-details .details li {
+  color: #112363;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+#speakers-details .details a {
+  color: rgb(56, 114, 221);
+}
+
+
 /*--------------------------------------------------------------
 # Schedule Section
 --------------------------------------------------------------*/
